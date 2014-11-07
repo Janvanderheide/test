@@ -1,5 +1,7 @@
 test
 
 change on develop
+change on feature\
 
 change on develop
+second change on feature
